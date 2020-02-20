@@ -1,6 +1,6 @@
 {
   "name": "sincerify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes your code more transparent for debugger.",
   "main": "index.js",
   "scripts": {
